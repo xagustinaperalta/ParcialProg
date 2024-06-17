@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E393AB-E3F3-438A-AFD2-A1E64B4E2F5B}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\selena\\documents\\tec.programacion\\segundo a\u00F1o\\primer cuatrimestre\\programaci\u00F3n 3\\parcial2\\formularioparcial2\\bibliotecadeclases\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E393AB-E3F3-438A-AFD2-A1E64B4E2F5B}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\formularioparcial2\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|solutionrelative:formularioparcial2\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\formularioparcial2\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|solutionrelative:formularioparcial2\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E393AB-E3F3-438A-AFD2-A1E64B4E2F5B}|BibliotecaDeClases\\BibliotecaDeClases.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\bibliotecadeclases\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E393AB-E3F3-438A-AFD2-A1E64B4E2F5B}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\formularioparcial2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|solutionrelative:formularioparcial2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E393AB-E3F3-438A-AFD2-A1E64B4E2F5B}|BibliotecaDeClases\\BibliotecaDeClases.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\bibliotecadeclases\\exceptions\\cuitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E393AB-E3F3-438A-AFD2-A1E64B4E2F5B}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\exceptions\\cuitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\formularioparcial2\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|solutionrelative:formularioparcial2\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\formularioparcial2\\mdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|solutionrelative:formularioparcial2\\mdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\formularioparcial2\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C656EFB-9154-4770-9DD1-4DAF0969AD1C}|FormularioParcial2\\FormularioParcial2.csproj|solutionrelative:formularioparcial2\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuitException.cs",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\BibliotecaDeClases\\Exceptions\\CuitException.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Exceptions\\CuitException.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\BibliotecaDeClases\\Exceptions\\CuitException.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Exceptions\\CuitException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:06:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\BibliotecaDeClases\\Funciones.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Funciones.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\BibliotecaDeClases\\Funciones.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Funciones.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:14:42.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MDI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\MDI.Designer.cs",
+              "RelativeDocumentMoniker": "FormularioParcial2\\MDI.Designer.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\MDI.Designer.cs",
+              "RelativeToolTip": "FormularioParcial2\\MDI.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:34:28.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\Program.cs",
+              "RelativeDocumentMoniker": "FormularioParcial2\\Program.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\Program.cs",
+              "RelativeToolTip": "FormularioParcial2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:24:47.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MDI.cs",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\MDI.cs",
+              "RelativeDocumentMoniker": "FormularioParcial2\\MDI.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\MDI.cs",
+              "RelativeToolTip": "FormularioParcial2\\MDI.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:23:26.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MDI.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\MDI.cs",
+              "RelativeDocumentMoniker": "FormularioParcial2\\MDI.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\MDI.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioParcial2\\MDI.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:16:37.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\Registro.cs",
+              "RelativeDocumentMoniker": "FormularioParcial2\\Registro.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\Registro.cs",
+              "RelativeToolTip": "FormularioParcial2\\Registro.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:50:08.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingresante.cs",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\BibliotecaDeClases\\Ingresante.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Ingresante.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\BibliotecaDeClases\\Ingresante.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Ingresante.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAqwKMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:20:25.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\Registro.cs",
+              "RelativeDocumentMoniker": "FormularioParcial2\\Registro.cs",
+              "ToolTip": "C:\\Users\\Selena\\Documents\\Tec.Programacion\\Segundo A\u00F1o\\Primer Cuatrimestre\\Programaci\u00F3n 3\\Parcial2\\FormularioParcial2\\FormularioParcial2\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioParcial2\\Registro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:16:30.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
